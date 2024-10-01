@@ -5,16 +5,18 @@ This project focuses on the segmentation of skin lesions in dermoscopic images u
 
 ## Project Details 
 1. **Project Objective:**
-   The primary goal of this project is to design an image segmentation algorithm that accurately segments skin lesions in dermoscopic images. The segmented results are compared against the ground truth images using metrics such as **Precision, Recall, Adapted Rand Error, and Intersection over Union (IoU)**.
+
+The primary goal of this project is to design an image segmentation algorithm that accurately segments skin lesions in dermoscopic images. The segmented results are compared against the ground truth images using metrics such as **Precision, Recall, Adapted Rand Error, and Intersection over Union (IoU)**.
 
 2. **Project Motivation:**
-   Skin cancer is one of the most common forms of cancer worldwide, and early detection significantly improves treatment outcomes. Automated segmentation of skin lesions can assist medical professionals in early diagnosis and potentially save lives. This project aims to contribute to this goal by providing a reliable segmentation algorithm that can be used in medical diagnostics or integrated into telemedicine platforms.
+
+Skin cancer is one of the most common forms of cancer worldwide, and early detection significantly improves treatment outcomes. Automated segmentation of skin lesions can assist medical professionals in early diagnosis and potentially save lives. This project aims to contribute to this goal by providing a reliable segmentation algorithm that can be used in medical diagnostics or integrated into telemedicine platforms.
 
 3. **Possible Applications:**
-   - Medical Diagnostics: Assists dermatologists in identifying and diagnosing skin lesions.
-   - Telemedicine: Enables patients to upload images for preliminary analysis.
-   - Research: Provides a tool for analyzing large datasets of skin lesion images for research purposes.
-   - Mobile Apps: Can be integrated into smartphone applications for self-assessment.
+  - Medical Diagnostics: Assists dermatologists in identifying and diagnosing skin lesions.
+  - Telemedicine: Enables patients to upload images for preliminary analysis.
+  - Research: Provides a tool for analyzing large datasets of skin lesion images for research purposes.
+  - Mobile Apps: Can be integrated into smartphone applications for self-assessment.
 
 ## Methodology
 The image segmentation approach uses a multi-step process involving several preprocessing, processing, and post-processing techniques. Below is a summary of the key steps:
